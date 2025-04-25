@@ -1,0 +1,14 @@
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.AssemblyInfoInputs.cache
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.AssemblyInfo.cs
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.csproj.CoreCompileInputs.cache
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\bin\Debug\net8.0\GrafosEsSalud.exe
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\bin\Debug\net8.0\GrafosEsSalud.deps.json
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\bin\Debug\net8.0\GrafosEsSalud.runtimeconfig.json
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\bin\Debug\net8.0\GrafosEsSalud.dll
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\bin\Debug\net8.0\GrafosEsSalud.pdb
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.dll
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\refint\GrafosEsSalud.dll
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.pdb
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\GrafosEsSalud.genruntimeconfig.cache
+C:\Users\Angie\Documents\UPN SISTEMAS\4 CICLO\ESTRUCTURA DE DATOS\GrafosEsSalud\GrafosEsSalud\obj\Debug\net8.0\ref\GrafosEsSalud.dll
