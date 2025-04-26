@@ -24,7 +24,7 @@ namespace GrafosEsSalud
             nodos.Add(new Nodo(ciudad));
         }
 
-        // Editar un nodo en el grafo
+        // Editar un nodo en el grafo nuevo
         public void EditarNodo(string ciudadViejo, string ciudadNuevo)
         {
             Nodo nodo = nodos.FirstOrDefault(n => n.Ciudad == ciudadViejo);
@@ -40,7 +40,11 @@ namespace GrafosEsSalud
         // Listar todos los nodos en el grafo
         public void ListarNodos()
         {
-            Console.WriteLine("Nodos en el grafo:");
+            if (1 == 1)
+            {
+                Console.WriteLine("Nodos en el grafo:");
+            }
+            
             foreach (Nodo nodo in nodos)
             {
                 Console.WriteLine(nodo.Ciudad);
