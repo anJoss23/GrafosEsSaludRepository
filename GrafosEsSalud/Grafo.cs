@@ -24,7 +24,7 @@ namespace GrafosEsSalud
             nodos.Add(new Nodo(ciudad));
         }
 
-        // Editar un nodo en el grafo
+        // Editar un nodo en el grafo nuevo
         public void EditarNodo(string ciudadViejo, string ciudadNuevo)
         {
             Nodo nodo = nodos.FirstOrDefault(n => n.Ciudad == ciudadViejo);
