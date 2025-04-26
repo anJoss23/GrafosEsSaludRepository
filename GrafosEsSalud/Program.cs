@@ -7,21 +7,21 @@ class Program
         Grafo miGrafo = new Grafo();
         miGrafo.AgregarNodo("Lima");
         miGrafo.AgregarNodo("Huaraz");
-        miGrafo.AgregarNodo("Trujillo");
+        miGrafo.AgregarNodo("Piura");
 
         // Listar los nodos
         miGrafo.ListarNodos();
 
         // Crear conexiones entre nodos (ciudades)
         miGrafo.AgregarArista("Lima", "Huaraz");
-        miGrafo.AgregarArista("Huaraz", "Trujillo");
+        miGrafo.AgregarArista("Huaraz", "Piura");
 
         // Establecer la ubicación inicial y consultar
         miGrafo.EstablecerUbicacion("Lima");
         miGrafo.ConsultarUbicacion();
         miGrafo.MoverTransporte("Huaraz");
         miGrafo.ConsultarUbicacion();
-        miGrafo.MoverTransporte("Trujillo");
+        miGrafo.MoverTransporte("Piura");
         miGrafo.ConsultarUbicacion();
 
         // Editar un nodo (ciudad)
@@ -31,14 +31,14 @@ class Program
 
         // Crear conexiones entre nodos (ciudades)
         miGrafo.AgregarArista("Lima", "Huanuco");
-        miGrafo.AgregarArista("Huanuco", "Trujillo");
+        miGrafo.AgregarArista("Huanuco", "Piura");
 
         // Establecer la ubicación inicial y consultar
         miGrafo.EstablecerUbicacion("Lima");
         miGrafo.ConsultarUbicacion();
         miGrafo.MoverTransporte("Huanuco");
         miGrafo.ConsultarUbicacion();
-        miGrafo.MoverTransporte("Trujillo");
+        miGrafo.MoverTransporte("Piura");
         miGrafo.ConsultarUbicacion();
     }
 }
