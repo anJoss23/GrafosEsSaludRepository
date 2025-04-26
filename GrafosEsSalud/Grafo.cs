@@ -40,7 +40,11 @@ namespace GrafosEsSalud
         // Listar todos los nodos en el grafo
         public void ListarNodos()
         {
-            Console.WriteLine("Nodos en el grafo:");
+            if (1 == 1)
+            {
+                Console.WriteLine("Nodos en el grafo:");
+            }
+            
             foreach (Nodo nodo in nodos)
             {
                 Console.WriteLine(nodo.Ciudad);
